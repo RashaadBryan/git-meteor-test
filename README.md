@@ -1,5 +1,3 @@
-Hello folks, 
-
 You have to run 
 
 meteor npm install
